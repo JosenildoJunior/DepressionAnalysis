@@ -8,8 +8,31 @@ O projeto visa conduzir uma análise exploratória dos dados e identificar padr�
 🖥️ [Veja a apresentação detalhada aqui](https://github.com/JosenildoJunior/DepressionAnalysis/blob/0e5a7993e01c96209696c13151c8d8d2f0c59d4a/Retrato%20da%20Depress%C3%A3o%20nos%20EUA_%20Perfil%20e%20H%C3%A1bitos%20de%20Adultos%20(2005-2006).pdf)
 
 ## 🗂️ Índice
-1. [Introdução](#-introdução)
-2. [Origem dos Dados](#-origem-dos-dados)
-3. [Objetivo da Análise](#-objetivo-da-análise)
-4. [Metodologia](#-metodologia)
-5. [Conclusões e Recomendações](#-conclusões-e-recomendações)
+1. [Introdução](#introducao)
+2. [Origem dos Dados](#origem-dos-dados)
+3. [Objetivo da Análise](#objetivo-da-análise)
+4. [Metodologia](#metodologia)
+5. [Conclusões e Recomendações](#conclusões-e-recomendações)
+
+
+## Introdução 📝
+
+A depressão é uma preocupação significativa para a saúde pública nos Estados Unidos. Essa condição pode causar prejuízos consideráveis tanto para os indivíduos afetados quanto para a sociedade como um todo, impactando a produtividade, a qualidade de vida e sobrecarregando os sistemas de saúde.
+
+## Origem dos Dados 📊
+
+Os dados utilizados são provenientes da NHANES (National Health and Nutrition Examination Survey) dos anos de 2005 a 2006. Esta pesquisa é realizada anualmente nos EUA para avaliar a saúde e nutrição de adultos e crianças.
+
+## Objetivo da Análise 🎯
+
+  O objetivo desta análise é responder às seguintes perguntas:
+  
+  - Qual é o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006 ?
+  
+  - Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população ?
+
+## Metodologia 🛠️
+
+## Conclusões e Recomendações 📋
+
+
