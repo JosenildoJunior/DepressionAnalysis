@@ -10,9 +10,9 @@ O projeto visa conduzir uma análise exploratória dos dados e identificar padr�
 ## 🗂️ Índice
 1. [Introdução](#introducao)
 2. [Origem dos Dados](#origem-dos-dados)
-3. [Objetivo da Análise](#objetivo-da-análise)
+3. [Objetivo da Análise](#objetivo-da-analise)
 4. [Metodologia](#metodologia)
-5. [Conclusões e Recomendações](#conclusões-e-recomendações)
+5. [Conclusões e Recomendações](#conclusoes-e-recomendaçoes)
 
 
 ## Introdução 📝
