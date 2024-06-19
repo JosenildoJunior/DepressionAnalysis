@@ -8,12 +8,11 @@ O projeto visa conduzir uma análise exploratória dos dados e identificar padr�
 🖥️ [Veja a apresentação detalhada aqui](https://github.com/JosenildoJunior/DepressionAnalysis/blob/0e5a7993e01c96209696c13151c8d8d2f0c59d4a/Retrato%20da%20Depress%C3%A3o%20nos%20EUA_%20Perfil%20e%20H%C3%A1bitos%20de%20Adultos%20(2005-2006).pdf)
 
 ## 🗂️ Índice
-1. [Introdução](#introducao-)
-2. [Origem dos Dados](#origem-dos-dados)
-3. [Objetivo da Análise](#objetivo-da-analise)
-4. [Metodologia](#metodologia)
-5. [Conclusões e Recomendações](#conclusoes-e-recomendaçoes)
-
+1. [Introdução](#introdução-)
+2. [Origem dos Dados](#origem-dos-dados-)
+3. [Objetivo da Análise](#objetivo-da-análise-)
+4. [Metodologia](#metodologia-)
+5. [Conclusões e Recomendações](#conclusões-e-recomendações-)
 
 ## Introdução 📝
 
