@@ -28,7 +28,7 @@ O objetivo desta análise é responder às seguintes perguntas:
 - Qual é o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006?
 - Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
 
-## Metodologia 🛠️
+## Metodologia 🎯
 
 Tipos de Análise Realizados:
 - Análise Descritiva do Perfil Demográfico dos Indivíduos com Depressão
