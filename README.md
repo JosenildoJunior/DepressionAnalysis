@@ -28,7 +28,7 @@ O objetivo desta análise é responder às seguintes perguntas:
 - Qual é o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006?
 - Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
 
-## Metodologia 🎯
+## Metodologia 🧪
 
 Tipos de Análise Realizados:
 - Análise Descritiva do Perfil Demográfico dos Indivíduos com Depressão
@@ -48,8 +48,12 @@ A análise revelou que atividades físicas e hábitos alimentares estão forteme
   - Oferecer incentivos como descontos em academias ou programas de exercícios, e estabelecer parcerias com empresas para fornecer benefícios adicionais.
   - Educar sobre os benefícios da atividade física por meio de campanhas abrangentes.
 
+- **Promover Hábitos Alimentares Saudáveis:**
+  - Implementar programas de educação nutricional, incluindo workshops de culinária e sessões de planejamento de refeições.
+  - Melhorar o acesso a alimentos frescos e saudáveis em áreas de baixa renda, apoiando mercados de agricultores e hortas comunitárias.
+  - Oferecer incentivos fiscais para alimentos saudáveis e programas de cupons para frutas e vegetais.
 
-
-
-
-
+- **Apoio Socioeconômico:**
+  - Desenvolver programas de assistência financeira para pessoas de baixa renda e simplificar os processos de inscrição.
+  - Oferecer treinamento e apoio para emprego, incluindo programas de mentoria e desenvolvimento de habilidades.
+  - Ampliar o acesso a serviços de saúde mental por meio de clínicas locais e telemedicina.
