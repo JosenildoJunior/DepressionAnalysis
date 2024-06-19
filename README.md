@@ -24,23 +24,42 @@ Os dados utilizados são provenientes da NHANES (National Health and Nutrition E
 
 ## Objetivo da Análise 🎯
 
-  O objetivo desta análise é responder às seguintes perguntas:
-  
-  - Qual é o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006 ?
-  
-  - Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população ?
+O objetivo desta análise é responder às seguintes perguntas:
+- Qual é o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006?
+- Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
 
 ## Metodologia 🛠️
 
 Tipos de Análise Realizados:
-
 - Análise Descritiva do Perfil Demográfico dos Indivíduos com Depressão
 - Identificação de Fatores de Risco Associados à Depressão
 - Análise dos Hábitos de Vida e Comportamentais dos Adultos com Depressão
 
 ## Conclusões e Recomendações 📋
 
- - ### Conclusões
-   - A análise revelou que atividades físicas e hábitos alimentares estão fortemente associados aos níveis de sintomas depressivos. Intervenções focadas em aumentar a atividade física e melhorar a alimentação podem reduzir os índices de depressão. Além disso, indivíduos com sintomas moderados a severos de depressão tendem a ter uma renda menor. A idade, no entanto, não apresenta uma influência substancial nos sintomas de depressão. Embora a maioria dos homens e mulheres relatem uma boa saúde mental, uma parcela significativa de ambos os gêneros enfrenta sintomas que variam de leves a severos.
+### Conclusões
+
+A análise revelou que atividades físicas e hábitos alimentares estão fortemente associados aos níveis de sintomas depressivos. Intervenções focadas em aumentar a atividade física e melhorar a alimentação podem reduzir os índices de depressão. Além disso, indivíduos com sintomas moderados a severos de depressão tendem a ter uma renda menor. A idade, no entanto, não apresenta uma influência substancial nos sintomas de depressão. Embora a maioria dos homens e mulheres relatem uma boa saúde mental, uma parcela significativa de ambos os gêneros enfrenta sintomas que variam de leves a severos.
+
+### Recomendações
+
+- **Melhorar o Engajamento em Atividades Físicas:**
+  - Promover programas comunitários de atividade física acessíveis e inclusivos para todas as faixas etárias e níveis de aptidão.
+  - Oferecer incentivos como descontos em academias ou programas de exercícios, e estabelecer parcerias com empresas para fornecer benefícios adicionais.
+  - Educar sobre os benefícios da atividade física por meio de campanhas abrangentes.
+
+
+- **Promover Hábitos Alimentares Saudáveis:**
+  - Implementar programas de educação nutricional, incluindo workshops de culinária e sessões de planejamento de refeições.
+  - Melhorar o acesso a alimentos frescos e saudáveis em áreas de baixa renda, apoiando mercados de agricultores e hortas comunitárias.
+  - Oferecer incentivos fiscais para alimentos saudáveis e programas de cupons para frutas e vegetais.
+
+- **Apoio Socioeconômico:**
+  - Desenvolver programas de assistência financeira para pessoas de baixa renda e simplificar os processos de inscrição.
+  - Oferecer treinamento e apoio para emprego, incluindo programas de mentoria e desenvolvimento de habilidades.
+  - Ampliar o acesso a serviços de saúde mental por meio de clínicas locais e telemedicina.
+
+
+
 
 
