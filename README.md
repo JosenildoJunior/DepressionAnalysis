@@ -8,7 +8,7 @@ O projeto visa conduzir uma análise exploratória dos dados e identificar padr�
 🖥️ [Veja a apresentação detalhada aqui](https://github.com/JosenildoJunior/DepressionAnalysis/blob/0e5a7993e01c96209696c13151c8d8d2f0c59d4a/Retrato%20da%20Depress%C3%A3o%20nos%20EUA_%20Perfil%20e%20H%C3%A1bitos%20de%20Adultos%20(2005-2006).pdf)
 
 ## 🗂️ Índice
-1. [Introdução](#introducao)
+1. [Introdução](#introducao-)
 2. [Origem dos Dados](#origem-dos-dados)
 3. [Objetivo da Análise](#objetivo-da-analise)
 4. [Metodologia](#metodologia)
@@ -33,6 +33,15 @@ Os dados utilizados são provenientes da NHANES (National Health and Nutrition E
 
 ## Metodologia 🛠️
 
+Tipos de Análise Realizados:
+
+- Análise Descritiva do Perfil Demográfico dos Indivíduos com Depressão
+- Identificação de Fatores de Risco Associados à Depressão
+- Análise dos Hábitos de Vida e Comportamentais dos Adultos com Depressão
+
 ## Conclusões e Recomendações 📋
+
+ - ### Conclusões
+   - A análise revelou que atividades físicas e hábitos alimentares estão fortemente associados aos níveis de sintomas depressivos. Intervenções focadas em aumentar a atividade física e melhorar a alimentação podem reduzir os índices de depressão. Além disso, indivíduos com sintomas moderados a severos de depressão tendem a ter uma renda menor. A idade, no entanto, não apresenta uma influência substancial nos sintomas de depressão. Embora a maioria dos homens e mulheres relatem uma boa saúde mental, uma parcela significativa de ambos os gêneros enfrenta sintomas que variam de leves a severos.
 
 
